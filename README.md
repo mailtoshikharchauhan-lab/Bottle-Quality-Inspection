@@ -183,8 +183,6 @@ Then display them like this:
 
 GitHub: https://github.com/mailtoshikharchauhan-lab
 
-LinkedIn: *(Add your LinkedIn profile here)*
-
 ---
 
 ## ⭐ If you found this project useful, consider giving it a star.
